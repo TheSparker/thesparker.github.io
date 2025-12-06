@@ -31,7 +31,7 @@ redirect_from:
 
 ## 技术路线
 
-- C/C++、Python、Java、Android开发、Unity游戏开发
+- Android、C/C++、Python、Java、Unity
 
 
 
