@@ -23,7 +23,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
   
-  - title: "项目"
+  - title: "作品"
     url: /projects/
 
   - title: "与我同行"
